@@ -2,7 +2,7 @@
 # Component Wiki
 
   Quick script to fetch `component.json` files for components
-  defined in the [component wiki](https://github.com/component/component/wiki/Components), which is
+  defined in the [component wiki](https://github.com/Unity-Billal-mesloub/component/wiki/Components), which is
   effectively our "registry". This is used for `component-search(1)`.
 
 ## Installation
